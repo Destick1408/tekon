@@ -1,0 +1,22 @@
+solo al inicio nuncamas
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Destick1408/tekon.git
+git push -u origin main
+
+
+luego
+
+git add .
+git commit -m "lo que mierdas vallas a detallar"
+git push
+
+tienes 2 ramas
+
+fetch nombredeturama
+git add .
+git commit -m "asdasdasd"
+git push origin nombredeturama
